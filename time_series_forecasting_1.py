@@ -63,8 +63,6 @@ def submit_data():
         
     # #return 'nothing'
     
-    # return render_template('home1.html',user_image = full_filename,tables=[final_df_1.to_html(classes='forecast')],titles=['na','forecast'],query1 = request.form['query1'],query2 = request.form['query2'],query3 = request.form['query3'])
-    # return render_template('home1.html',tables=[df_final.to_html(classes='forecast')],query1 = request.form['query1'],query2 = request.form['query2'],query3 = request.form['query3'])
     return render_template('home1.html',user_image = full_filename,tables=[df_final.to_html(classes='forecast')],query1 = request.form['query1'],query2 = request.form['query2'],query3 = request.form['query3'])
 
     

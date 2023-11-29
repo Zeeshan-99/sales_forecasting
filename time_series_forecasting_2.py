@@ -42,7 +42,7 @@ def submit_data():
     model.fit(df[['ds']],df['y'])
 
 
-    future_data = pd.DataFrame({'ds': pd.date_range(start=df['ds'].max()+pd.DateOffset(months=1), periods=12, freq='M')})
+    future_data = pd.DataFrame({'ds': pd.date_range(start=df['ds'].max()+pd.DateOffset(months=1), periods=t, freq='M')})
     forecast_data = model.predict(future_data[['ds']])
     future_data['forecasted']=forecast_data
     df_final=pd.concat([df, future_data], ignore_index=True)
@@ -63,12 +63,9 @@ def submit_data():
         
     # #return 'nothing'
     
-    # return render_template('home1.html',user_image = full_filename,tables=[final_df_1.to_html(classes='forecast')],titles=['na','forecast'],query1 = request.form['query1'],query2 = request.form['query2'],query3 = request.form['query3'])
-    # return render_template('home1.html',tables=[df_final.to_html(classes='forecast')],query1 = request.form['query1'],query2 = request.form['query2'],query3 = request.form['query3'])
     return render_template('home1.html',user_image = full_filename,tables=[df_final.to_html(classes='forecast')],query1 = request.form['query1'],query2 = request.form['query2'],query3 = request.form['query3'])
 
     
 if __name__ =="__main__":
-
     app.run(debug=True)
     
