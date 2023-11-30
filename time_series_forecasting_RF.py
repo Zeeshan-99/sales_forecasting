@@ -6,7 +6,6 @@ import numpy as np
 from prophet import Prophet
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestRegressor
-# from sklearn.linear_model import LinearRegressor
 from sklearn.metrics import mean_squared_error
 from random import randint
 import plotly.graph_objs as go
@@ -41,7 +40,6 @@ def submit_data():
     model = RandomForestRegressor() #instantiate RF
     model.fit(df[['ds']],df['y'])
 
-
     future_data = pd.DataFrame({'ds': pd.date_range(start=df['ds'].max()+pd.DateOffset(months=1), periods=t, freq='M')})
     forecast_data = model.predict(future_data[['ds']])
     future_data['forecasted']=forecast_data
@@ -60,12 +58,11 @@ def submit_data():
     
     fig.savefig(os.path.join(app.config["IMAGE_UPLOADS"],'time_series.jpg'))  
     full_filename= os.path.join(app.config["IMAGE_UPLOADS"],'time_series.jpg')   
-        
-    # #return 'nothing'
+    ##return 'nothing'
     
     return render_template('home1.html',user_image = full_filename,tables=[df_final.to_html(classes='forecast')],query1 = request.form['query1'],query2 = request.form['query2'],query3 = request.form['query3'])
 
-    
+
 if __name__ =="__main__":
     app.run(debug=True)
     
