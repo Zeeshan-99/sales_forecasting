@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Science Project</title>
+    <style>
+        body {
+			background: url('{{ url_for('static', filename='background_image/demo3.jpg') }}');
+            background-size: cover;
+            background-repeat: no-repeat;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav {
+            background-color: #444;
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            padding: 10px;
+            margin: 0 10px;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+
+        nav a:hover {
+            background-color: #555;
+        }
+
+        h2 {
+            text-align: center;
+            color: #ffffff; /* Text color for better visibility on the background */
+        }
+
+        form {
+            background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white background for form */
+            padding: 20px;
+            border-radius: 10px;
+            margin: 50px auto; /* Center the form */
+            max-width: 500px;
+        }
+
+        label {
+            display: block;
+            margin: 10px 0;
+        }
+
+        input {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 10px;
+            box-sizing: border-box;
+        }
+
+        button {
+            width: 100%;
+            padding: 10px;
+            background-color: #4caf50;
+            color: #ffffff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Data Science Project</h1>
+    </header>
+
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">File</a>
+        <a href="#">Help</a>
+    </nav>
+
+    <h2>Data Science Project Form</h2>
+
+    <form action="#" method="post" enctype="multipart/form-data" id="dataForm">
+        <!-- Upload button for dataset -->
+        <label for="dataset">Upload Dataset:</label>
+        <input type="file" id="dataset" name="dataset" accept=".csv, .xlsx" required>
+
+        <!-- Input boxes for input variables -->
+        <label for="input1">Input Variable 1:</label>
+        <input type="text" id="input1" name="input1" required>
+
+        <label for="input2">Input Variable 2:</label>
+        <input type="text" id="input2" name="input2" required>
+
+        <label for="input3">Input Variable 3:</label>
+        <input type="text" id="input3" name="input3" required>
+
+        <label for="input4">Input Variable 4:</label>
+        <input type="text" id="input4" name="input4" required>
+
+        <!-- Input box for target variable -->
+        <label for="target">Target Variable:</label>
+        <input type="text" id="target" name="target" required>
+
+        <!-- Button for making predictions -->
+        <button type="button" onclick="makePredictions()">Make Predictions</button>
+    </form>
+
+    <!-- Script for handling form submission -->
+    <script>
+        function makePredictions() {
+            // Add your code for handling form submission and making predictions here
+            // You may use JavaScript, AJAX, or any other technology depending on your project requirements
+            alert("Predictions will be made based on the entered data!");
+        }
+    </script>
+
+</body>
+</html>
