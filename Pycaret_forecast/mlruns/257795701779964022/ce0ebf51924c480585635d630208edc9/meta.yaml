@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/zeesh/OneDrive%20-%20ORMAE/Documents/Projects/Self_Programming_Practice/Zee_github_projects/sales_forecasting/Pycaret_forecast/mlruns/257795701779964022/ce0ebf51924c480585635d630208edc9/artifacts
+end_time: 1709803629559
+entry_point_name: ''
+experiment_id: '257795701779964022'
+lifecycle_stage: active
+run_id: ce0ebf51924c480585635d630208edc9
+run_name: grandiose-sheep-487
+run_uuid: ce0ebf51924c480585635d630208edc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709803620196
+status: 3
+tags: []
+user_id: zeesh

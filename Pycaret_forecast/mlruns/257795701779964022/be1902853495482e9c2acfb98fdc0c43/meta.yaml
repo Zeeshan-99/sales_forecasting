@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/zeesh/OneDrive%20-%20ORMAE/Documents/Projects/Self_Programming_Practice/Zee_github_projects/sales_forecasting/Pycaret_forecast/mlruns/257795701779964022/be1902853495482e9c2acfb98fdc0c43/artifacts
+end_time: 1709803652102
+entry_point_name: ''
+experiment_id: '257795701779964022'
+lifecycle_stage: active
+run_id: be1902853495482e9c2acfb98fdc0c43
+run_name: likeable-wasp-795
+run_uuid: be1902853495482e9c2acfb98fdc0c43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709803641019
+status: 3
+tags: []
+user_id: zeesh

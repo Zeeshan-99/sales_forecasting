@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/zeesh/OneDrive%20-%20ORMAE/Documents/Projects/Self_Programming_Practice/Zee_github_projects/sales_forecasting/Pycaret_forecast/mlruns/257795701779964022/445ae369eec14a408fe168d97826ec12/artifacts
+end_time: 1709804247976
+entry_point_name: ''
+experiment_id: '257795701779964022'
+lifecycle_stage: active
+run_id: 445ae369eec14a408fe168d97826ec12
+run_name: gaudy-moth-772
+run_uuid: 445ae369eec14a408fe168d97826ec12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709804241039
+status: 3
+tags: []
+user_id: zeesh

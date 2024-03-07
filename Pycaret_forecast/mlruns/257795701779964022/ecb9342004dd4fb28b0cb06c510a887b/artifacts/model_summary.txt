@@ -1,0 +1,16 @@
+                       ExponentialSmoothing Model Results                       
+================================================================================
+Dep. Variable:                     None   No. Observations:                   78
+Model:             ExponentialSmoothing   SSE                       36528586.254
+Optimized:                         True   AIC                           1022.438
+Trend:                             None   BIC                           1027.151
+Seasonal:                          None   AICC                          1022.986
+Seasonal Periods:                  None   Date:                 Thu, 07 Mar 2024
+Box-Cox:                          False   Time:                         15:09:56
+Box-Cox Coeff.:                    None                                         
+==============================================================================
+                       coeff                 code              optimized      
+------------------------------------------------------------------------------
+smoothing_level            0.9964859                alpha                 True
+initial_level              3077.9952                  l.0                 True
+------------------------------------------------------------------------------

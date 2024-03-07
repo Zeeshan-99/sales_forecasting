@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1709793149545
+current_stage: None
+description: null
+last_updated_timestamp: 1709793149545
+name: PyCaret_model
+run_id: null
+run_link: null
+source: file:///c:/Users/zeesh/OneDrive%20-%20ORMAE/Documents/Projects/Self_Programming_Practice/Zee_github_projects/sales_forecasting/Time_Series_Forecasting/mlruns/452510640551172341/82e1c3e393224fc0b7358e3bcd388809/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/zeesh/OneDrive%20-%20ORMAE/Documents/Projects/Self_Programming_Practice/Zee_github_projects/sales_forecasting/Time_Series_Forecasting/mlruns/452510640551172341/82e1c3e393224fc0b7358e3bcd388809/artifacts/model
+user_id: null
+version: 1

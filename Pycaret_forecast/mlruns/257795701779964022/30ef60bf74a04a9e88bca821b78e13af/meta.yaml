@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/zeesh/OneDrive%20-%20ORMAE/Documents/Projects/Self_Programming_Practice/Zee_github_projects/sales_forecasting/Pycaret_forecast/mlruns/257795701779964022/30ef60bf74a04a9e88bca821b78e13af/artifacts
+end_time: 1709804289289
+entry_point_name: ''
+experiment_id: '257795701779964022'
+lifecycle_stage: active
+run_id: 30ef60bf74a04a9e88bca821b78e13af
+run_name: debonair-doe-474
+run_uuid: 30ef60bf74a04a9e88bca821b78e13af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709804282803
+status: 3
+tags: []
+user_id: zeesh

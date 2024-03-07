@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/zeesh/OneDrive%20-%20ORMAE/Documents/Projects/Self_Programming_Practice/Zee_github_projects/sales_forecasting/Pycaret_forecast/mlruns/257795701779964022/5f8015a3db4b4baa91bd1389af02b06c/artifacts
+end_time: 1709803612534
+entry_point_name: ''
+experiment_id: '257795701779964022'
+lifecycle_stage: active
+run_id: 5f8015a3db4b4baa91bd1389af02b06c
+run_name: ambitious-pug-482
+run_uuid: 5f8015a3db4b4baa91bd1389af02b06c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709803604881
+status: 3
+tags: []
+user_id: zeesh

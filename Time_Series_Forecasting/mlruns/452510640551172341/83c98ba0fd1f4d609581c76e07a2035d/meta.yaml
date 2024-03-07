@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/zeesh/OneDrive%20-%20ORMAE/Documents/Projects/Self_Programming_Practice/Zee_github_projects/sales_forecasting/Time_Series_Forecasting/mlruns/452510640551172341/83c98ba0fd1f4d609581c76e07a2035d/artifacts
+end_time: 1709794339216
+entry_point_name: ''
+experiment_id: '452510640551172341'
+lifecycle_stage: active
+run_id: 83c98ba0fd1f4d609581c76e07a2035d
+run_name: serious-snake-338
+run_uuid: 83c98ba0fd1f4d609581c76e07a2035d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709794331881
+status: 3
+tags: []
+user_id: zeesh

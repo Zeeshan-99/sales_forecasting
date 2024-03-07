@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/zeesh/OneDrive%20-%20ORMAE/Documents/Projects/Self_Programming_Practice/Zee_github_projects/sales_forecasting/Pycaret_forecast/mlruns/257795701779964022/e6b548b070ac441a8cef4a78b25f6bc9/artifacts
+end_time: 1709803709334
+entry_point_name: ''
+experiment_id: '257795701779964022'
+lifecycle_stage: active
+run_id: e6b548b070ac441a8cef4a78b25f6bc9
+run_name: kindly-bug-666
+run_uuid: e6b548b070ac441a8cef4a78b25f6bc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709803697654
+status: 3
+tags: []
+user_id: zeesh

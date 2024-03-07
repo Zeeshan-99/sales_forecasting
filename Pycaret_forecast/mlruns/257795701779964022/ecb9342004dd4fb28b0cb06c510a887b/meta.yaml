@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/zeesh/OneDrive%20-%20ORMAE/Documents/Projects/Self_Programming_Practice/Zee_github_projects/sales_forecasting/Pycaret_forecast/mlruns/257795701779964022/ecb9342004dd4fb28b0cb06c510a887b/artifacts
+end_time: 1709804396372
+entry_point_name: ''
+experiment_id: '257795701779964022'
+lifecycle_stage: active
+run_id: ecb9342004dd4fb28b0cb06c510a887b
+run_name: orderly-owl-577
+run_uuid: ecb9342004dd4fb28b0cb06c510a887b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709804387736
+status: 3
+tags: []
+user_id: zeesh

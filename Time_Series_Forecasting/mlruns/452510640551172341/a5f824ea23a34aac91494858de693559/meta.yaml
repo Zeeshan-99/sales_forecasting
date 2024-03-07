@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/zeesh/OneDrive%20-%20ORMAE/Documents/Projects/Self_Programming_Practice/Zee_github_projects/sales_forecasting/Time_Series_Forecasting/mlruns/452510640551172341/a5f824ea23a34aac91494858de693559/artifacts
+end_time: 1709788523968
+entry_point_name: ''
+experiment_id: '452510640551172341'
+lifecycle_stage: active
+run_id: a5f824ea23a34aac91494858de693559
+run_name: ambitious-pug-482
+run_uuid: a5f824ea23a34aac91494858de693559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709788515068
+status: 3
+tags: []
+user_id: zeesh

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/zeesh/OneDrive%20-%20ORMAE/Documents/Projects/Self_Programming_Practice/Zee_github_projects/sales_forecasting/Pycaret_forecast/mlruns/257795701779964022/f8d8b7b6afb84628a722a025046ac631/artifacts
+end_time: 1709804302593
+entry_point_name: ''
+experiment_id: '257795701779964022'
+lifecycle_stage: active
+run_id: f8d8b7b6afb84628a722a025046ac631
+run_name: selective-ram-457
+run_uuid: f8d8b7b6afb84628a722a025046ac631
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709804296057
+status: 3
+tags: []
+user_id: zeesh

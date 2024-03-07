@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/zeesh/OneDrive%20-%20ORMAE/Documents/Projects/Self_Programming_Practice/Zee_github_projects/sales_forecasting/Pycaret_forecast/mlruns/257795701779964022/2081bde40e5b4dfdab69633c5e201c88/artifacts
+end_time: 1709804339237
+entry_point_name: ''
+experiment_id: '257795701779964022'
+lifecycle_stage: active
+run_id: 2081bde40e5b4dfdab69633c5e201c88
+run_name: burly-wasp-892
+run_uuid: 2081bde40e5b4dfdab69633c5e201c88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709804331385
+status: 3
+tags: []
+user_id: zeesh

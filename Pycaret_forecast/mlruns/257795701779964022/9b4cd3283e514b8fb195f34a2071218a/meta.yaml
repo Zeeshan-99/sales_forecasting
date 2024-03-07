@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/zeesh/OneDrive%20-%20ORMAE/Documents/Projects/Self_Programming_Practice/Zee_github_projects/sales_forecasting/Pycaret_forecast/mlruns/257795701779964022/9b4cd3283e514b8fb195f34a2071218a/artifacts
+end_time: 1709803673378
+entry_point_name: ''
+experiment_id: '257795701779964022'
+lifecycle_stage: active
+run_id: 9b4cd3283e514b8fb195f34a2071218a
+run_name: serious-snake-338
+run_uuid: 9b4cd3283e514b8fb195f34a2071218a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709803665869
+status: 3
+tags: []
+user_id: zeesh
